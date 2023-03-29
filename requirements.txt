@@ -4,3 +4,5 @@ bs4
 tensorflow
 keras
 matplotlib
+transformers
+rouge
