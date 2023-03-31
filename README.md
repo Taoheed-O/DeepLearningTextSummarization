@@ -12,5 +12,5 @@
 ###### processes.
 
 ### There are two models available:
-    - BART CNN
+    - LARGE BART CNN
     - Encoders and Decoders[RNN]
